@@ -1,0 +1,7 @@
+module Rails
+  module Command
+    class LogMessageCommand
+      def perform: -> untyped
+    end
+  end
+end
