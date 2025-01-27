@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require "rails/command"
 require "rails/commands/log_message/log_message_command"
 require "spec_helper"
