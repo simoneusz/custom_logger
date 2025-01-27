@@ -1,0 +1,5 @@
+module CustomLogger
+  class Logger
+    def self.log_message: -> untyped
+  end
+end
